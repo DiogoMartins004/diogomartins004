@@ -8,7 +8,6 @@ I’m a Computer Science and Engineering student focused on enhancing my skills 
 
 * 🌍  I'm based in Porto, Portugal
 * ✉️  You can contact me at [diogomartins2709@hotmail.com](mailto:diogomartins2709@hotmail.com)
-* 🧠  I am especially focused on learning and deepening my knowledge in PostgreSQL, Postman, React, and C#, as these are new technologies for me.
 
 ### Skills
 
